@@ -10,4 +10,4 @@ We could optimize this model a little bit by assigning weightage to the user-def
 >[Abhishek Ghosh](https://github.com/Abhishekghosh1998);
 >[Sayak Nath](https://github.com/LenivanX);
 >[Atanu Paul](https://github.com/atanu04);
->[Abhinava Chakraborty](https://github.com/StarLord-Supreme);
+>[Abhinaba Chakraborty](https://github.com/StarLord-Supreme);
